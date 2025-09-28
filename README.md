@@ -1,4 +1,4 @@
-# Anime Batch Portal — Starter Monorepo (v2)
+# Anime Batch Portal 
 
 Includes:
 - Backend: Node.js + Express + MongoDB (+ input validation, logging)
